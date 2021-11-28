@@ -7,4 +7,4 @@ I tasked with predicting if the first stage of the SpaceX Falcon 9 rocket will l
 
 Therefore if I can accurately predict the likelihood of the first stage rocket landing successfully, I could determine the cost of a launch. With the help of my Data Science findings and models, the competing startup I have been hired by can make more informed bids against SpaceX for a rocket launch.
 
-Check out the course on: https://www.coursera.org/professional-certificates/ibm-data-science
+Check out the Specialization at: https://www.coursera.org/professional-certificates/ibm-data-science
